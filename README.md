@@ -1,2 +1,2 @@
 # Myjavaproject-
-Simple java project form OnlineGDB
+Simple java project from OnlineGDB
